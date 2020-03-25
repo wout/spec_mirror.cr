@@ -6,5 +6,3 @@ bin:
 	mkdir -p $(SHARD_BIN)
 run_file:
 	$(CRYSTAL_BIN) build ./bin/spec_mirror.cr -o $(SHARD_BIN)/spec_mirror --release
-clean:
-	rm -f ./bin/spec_mirror ./bin/spec_mirror.dwarf
