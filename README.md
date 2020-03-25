@@ -3,6 +3,9 @@
 A small test helper which will run the mirroring spec whenever a source file 
 is saved. It requires a file watcher like [Guardian.cr](https://github.com/f/guardian) for example.
 
+[![Build Status](https://travis-ci.org/tilishop/spec_mirror.cr.svg?branch=master)](https://travis-ci.org/tilishop/spec_mirror.cr)
+[![GitHub version](https://badge.fury.io/gh/tilishop%2Fspec_mirror.cr.svg)](https://badge.fury.io/gh/tilishop%2Fspec_mirror.cr)
+
 ## Installation
 
 Add the development dependency to your `shard.yml`:
