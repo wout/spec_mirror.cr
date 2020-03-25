@@ -16,6 +16,3 @@ bin: build
 run_file:
 	cp -n ./bin/spec_mirror.cr $(SHARD_BIN) || true
 	$(CRYSTAL_BIN) build $(SHARD_BIN)/spec_mirror.cr -o $(SHARD_BIN)/spec_mirror --release
-test: build
-	$(CRYSTAL_BIN) spec
-	./bin/spec_mirror --all
