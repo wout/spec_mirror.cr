@@ -10,3 +10,6 @@ license: MIT
 
 scripts:
   postinstall: make bin && make run_file
+
+executables:
+  - spec_mirror
