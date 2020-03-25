@@ -1,6 +1,7 @@
 /docs/
 /lib/
-#/bin/
+/bin/spec_mirror
+/bin/spec_mirror.dwarf
 /.shards/
 *.dwarf
 
