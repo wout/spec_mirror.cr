@@ -3,8 +3,8 @@
 A small test helper which will run the mirroring spec whenever a source file 
 is saved. It requires a file watcher like [Guardian.cr](https://github.com/f/guardian) for example.
 
-[![Build Status](https://travis-ci.org/tilitribe/spec_mirror.cr.svg?branch=master)](https://travis-ci.org/tilitribe/spec_mirror.cr)
-[![GitHub version](https://badge.fury.io/gh/tilitribe%2Fspec_mirror.cr.svg)](https://badge.fury.io/gh/tilitribe%2Fspec_mirror.cr)
+![GitHub](https://img.shields.io/github/license/tilitribe/spec_mirror.cr)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/tilitribe/spec_mirror.cr)
 
 ## Installation
 
