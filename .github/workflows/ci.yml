@@ -1,4 +1,4 @@
-name: spec_mirror.cr
+name: spec_mirror-ci
 
 on:
   push:
