@@ -5,6 +5,7 @@ is saved. It requires a file watcher like [Guardian.cr](https://github.com/f/gua
 
 ![GitHub](https://img.shields.io/github/license/tilitribe/spec_mirror.cr)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/tilitribe/spec_mirror.cr)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/tilitribe/spec_mirror.cr/spec_mirror-ci)
 
 ## Installation
 
