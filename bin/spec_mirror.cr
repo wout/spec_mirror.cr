@@ -5,7 +5,7 @@ begin
   if File.extname(file) == ".cr"
     spec = file
       .sub(/^\.\/src\//, "./spec/")
-      .sub(/(_spec)?\.cr$/, "_spec.cr")
+      .sub(/(_spec|_flow)?\.cr$/, "_spec.cr")
 
     if File.exists?(spec)
       puts "Running #{spec}"
